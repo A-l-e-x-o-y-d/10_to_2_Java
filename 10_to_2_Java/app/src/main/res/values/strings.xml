@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dec2Bin</string>
+    <string name="bin_text">Dec2Bin</string>
+    <string name="dec_text">Dec2Bin</string>
+    <string name="btn_caption">Dec2Bin</string>
+    <string name="action_settings">Dec2Bin</string>
+    <string name="screen_title">Dec2Bin</string>
+</resources>
